@@ -27,4 +27,7 @@ TO RUN THE APP:
 type this in terminal : streamlit run virtual_tutor.py
 
 after this default web browser of your system will open and you can check 
-project features.
+project features after entering your own groq api which is free available 
+
+simply search groq and login/ signup and create api and copy it and save some where 
+and use it in application
