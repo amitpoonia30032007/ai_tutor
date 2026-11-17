@@ -1,0 +1,3 @@
+this is for project if want to use my api for just running project
+use key from this string in double quotes "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"
+exclude double quotes
